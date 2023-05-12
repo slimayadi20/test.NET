@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApplicationCore",
+    "\\ApplicationCore\\Domain",
+    "\\ApplicationCore\\Interfaces",
+    "\\ApplicationCore\\Services",
+    "\\Infrastructure",
+    "\\UI.Console",
+    "\\UI.Console\\obj"
+  ],
+  "SelectedNode": "\\ApplicationCore\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}
